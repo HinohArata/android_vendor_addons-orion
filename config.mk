@@ -290,6 +290,7 @@ PRODUCT_PACKAGES += \
     QSNeumorph \
     QSReflected \
     QSSurround \
+    RoundQSOverlay \
     QSThin
 
 # Signal Icons
